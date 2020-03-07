@@ -1,4 +1,4 @@
-# 6Key
+# 6Key_V2
 6 Key Macropad
 
 ![TopView](https://github.com/dingusxmcgee/6Key/blob/master/Renders/6Key_Top.jpg?raw=true)
